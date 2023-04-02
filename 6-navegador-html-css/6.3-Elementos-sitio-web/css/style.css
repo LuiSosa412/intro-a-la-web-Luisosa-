@@ -1,0 +1,50 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Bitter', serif;
+  
+}
+header{
+    background-color:#faedcd ;
+    color: #d4a373;
+    padding: 10px ;
+    border-radius: 17px;
+    margin: 50px;
+}
+
+.secciones{
+    width: 100% ;
+    text-align: center;
+}
+
+section{
+display: inline-block;
+margin: 25px;
+background-color: #d4a373;
+padding: 25px;
+border-radius: 17px;
+box-shadow: 5px 5px 15px gray;
+}
+
+.beach{
+    width: 250px;
+    height: 250px;
+    border-radius: 17px;
+}
+
+.beach2{
+    width: 320px;
+    height: 250px;
+    border-radius: 17px;
+}
+
+.description{
+    width: 300px;
+    height: 200px;
+}
+
+#cuerpo{
+    background-color: #e9edc9;
+    padding: 20px;
+    margin 20px;
+    border-radius: 17px;
+}

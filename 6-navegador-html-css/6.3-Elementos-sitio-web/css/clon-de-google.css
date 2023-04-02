@@ -1,0 +1,30 @@
+#barra{
+
+}
+
+#cuerpo{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+
+}
+
+.logo{
+    
+}
+
+.google{
+    width: 500px;
+    height: 180px;
+    border-radius: 17px;
+}
+
+.buscador{
+    width: 500px;
+    height: 20px;
+    display: inline-block;
+    margin: 25px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 15px gray;
+}
