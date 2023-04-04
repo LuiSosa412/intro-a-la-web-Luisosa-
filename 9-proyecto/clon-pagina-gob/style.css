@@ -4,27 +4,41 @@ body{
 }
 
 #hearder{
-    background-color: #0f0f0f;
-
+    display: grid;
+    grid-template-columns: auto;
+    
+    font-family: 'Bitter', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: white;
 }
 
 .herder-1{
     display: flex;
     justify-content: space-evenly;
-    align-items: baseline;
-    background-color: #aaaa2f;
-    margin: 0px;
-    padding: 20px;
+    align-items: center;
+    background-color: #0C231E;
+    height: 65px;
+    padding: 10px, 15px;
 
+}
+
+.logogob{
+    width: 150px;
 }
 
 .herder-2{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: #1b8629;
-    margin: 0px;
-    padding: 20px;
+    
+    background-color: #13322B;
+    height: 35px;
+    padding: 30px, 15px;
 }
 
+.textos{
+    display: grid;
+    grid-template-columns: auto;
+}
 
