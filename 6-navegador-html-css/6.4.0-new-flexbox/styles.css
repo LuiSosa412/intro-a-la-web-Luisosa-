@@ -1,0 +1,27 @@
+.container{
+    padding: 100px;
+    margin: 20px;
+    border: solid cornflowerblue;
+    background-color: antiquewhite;
+    /*EL EJE PRINCIPAL POR DEFECTO ES ROW, SI LO MUEVEN COLUMN, ES COLUMN */
+    flex-direction: row; 
+    /*FUNCIONA PARA EL EJE PROCIPAL column, row-reverse, column-reverse */
+    justify-content: center;
+    /* end, space around, space-between, space-evely */
+    align-items: center;
+    /* */
+    align-items: wrap;
+    height: 300px;
+}
+
+.item{
+    padding: 10px;
+    margin: 5px;
+    border: solid blue;
+    background-color: brown;
+}
+
+.special-item{
+
+    
+}

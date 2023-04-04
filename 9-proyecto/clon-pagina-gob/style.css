@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#hearder{
+    background-color: #0f0f0f;
+
+}
+
+.herder-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    background-color: #aaaa2f;
+    margin: 0px;
+    padding: 20px;
+
+}
+
+.herder-2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #1b8629;
+    margin: 0px;
+    padding: 20px;
+}
+
+

@@ -1,10 +1,14 @@
 #barra{
+    height: 13px;
+    padding: 0px, 4px, 0px, 0px;
 
 }
 
 #cuerpo{
     background-color: rgb(255, 255, 255);
-    height: 500px;
+    height: 300px;
+    font-family: 'Bitter', serif;
+    padding: 100px;
 
 }
 
@@ -13,18 +17,40 @@
 }
 
 .google{
-    width: 500px;
-    height: 180px;
+    width: 272px;
+    height: 92px;
     border-radius: 17px;
 }
 
 .buscador{
-    width: 500px;
-    height: 20px;
+    width: 580px;
+    height: 44px;
     display: inline-block;
     margin: 25px;
     background-color: #ffffff;
-    padding: 25px;
+    padding: 2px;
     border-radius: 100px;
     box-shadow: 5px 5px 15px gray;
+}
+
+#footer{
+    width: 1500px;
+    height: 80px;
+    background-color: #9aa0a6;
+}
+
+.mexico{
+    width: 1500px;
+    height: 10px;
+    background-color: #9aa0a6;
+    
+
+
+}
+
+.acce{
+    width: 1500px;
+    height: 0px;
+    background-color: #9aa0a6;
+    
 }
