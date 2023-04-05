@@ -62,7 +62,10 @@ body{
     display: grid;
     grid-template-columns:   60%   auto;
                                 1fr;
-                                1fr;     
+                                1fr;
+     /* background-color: orange; */
+     
+                                
 }
 
 .informacion{
@@ -130,4 +133,95 @@ body{
     font-size: 18px;
     line-height: 31px;
     color: #404041;
+}
+
+
+.aside{
+    
+    /* height: 100%;
+    width: 100%; */
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    /* align-items: start; */
+    /* padding: 21px; */
+
+
+
+}
+
+
+.rel{
+    padding: 10px;
+  
+
+}
+
+.imagen8{
+    display: flex;
+    height: 77px;
+    width: 58px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.Prevención1{
+    display: flex;
+    align-items: center;
+
+    margin: 20px;
+    font-size: 15px;
+}
+
+/* .encuesta-{
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    color: rgb(133, 18, 18);
+} */
+
+
+
+.encuesta{
+    background-color: #0C231E;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    color: white;
+    border-radius: 7px;
+    margin: 0px;
+
+}
+
+.caja1{
+    background-color: #0C231E;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin: 7px;
+    color: white;
+}
+
+.link1{
+    color: #0C231E;
+}
+
+.link2{
+    color: #ffffff;
+}
+
+
+.caja2{
+    background-color: #0C231E;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.exp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
