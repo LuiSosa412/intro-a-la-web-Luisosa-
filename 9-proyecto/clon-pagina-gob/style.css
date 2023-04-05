@@ -63,9 +63,7 @@ body{
     grid-template-columns:   60%   auto;
                                 1fr;
                                 1fr;
-     /* background-color: orange; */
-     
-                                
+     /* background-color: orange; */                               
 }
 
 .informacion{
@@ -183,7 +181,7 @@ body{
 
 
 .encuesta{
-    background-color: #0C231E;
+    background-color: #13322B;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -195,7 +193,7 @@ body{
 }
 
 .caja1{
-    background-color: #0C231E;
+    background-color: #13322B;
     display: flex;
     justify-content: start;
     align-items: start;
@@ -204,7 +202,7 @@ body{
 }
 
 .link1{
-    color: #0C231E;
+    color: #13322B;
 }
 
 .link2{
@@ -213,7 +211,7 @@ body{
 
 
 .caja2{
-    background-color: #0C231E;
+    background-color: #13322B;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -223,5 +221,11 @@ body{
 .exp{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    margin: 50px;
+    padding: 10px;
+}
+
+.footer{
+    background-color: #13322B;
+    display: flex;
 }
