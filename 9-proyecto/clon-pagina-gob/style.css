@@ -226,6 +226,18 @@ body{
 }
 
 .footer{
+    font-family: 'Bitter', serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: #13322B;
     display: flex;
+}
+
+.caja3{
+    color: white;
+}
+
+.logogob2{
+    width: 300px;
+    height: auto;
+
 }
